@@ -1,4 +1,4 @@
-#Tech-Stack
+# Tech-Stack
 - React JS
 - Typescript
 - Redux/Toolkit
